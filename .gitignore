@@ -4,3 +4,4 @@ venv
 story_graph.dot
 out.log
 results
+__pycache__
