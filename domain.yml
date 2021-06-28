@@ -70,7 +70,7 @@ slots:
 responses:
 
   utter_greet:
-    - text: Chào {cusName}.Chào mừng quý khách đã đến với nhà hàng lẩu MTee Ay
+    - text: Chào mừng quý khách đã đến với nhà hàng lẩu MTee Ay
   utter_goodbye:
     - text: Chào {cusName}. Hẹn gặp lại !
   utter_affirm:
@@ -91,7 +91,7 @@ responses:
     - text: Mình chưa hiểu ý bạn! Bạn nói rõ hơn cho mình với ạ.
   utter_ask_view_restaurant:
     - text: Đây là không gian quán ạ
-      image: "https://www.upsieutoc.com/images/2020/12/04/dau-thang-choi-lon-an-8-quan-lau-sang-chanh-hap-dan-vuot-troi-gay-bao-dan-sanh-an-ccc9722e636954273665456460.jpg"
+      image: "https://anuongsaigon.com/wp-content/uploads/2019/04/b29d.jpg"
 
 actions:
 

@@ -14,6 +14,14 @@
 - có tôi muốn
 - có
 - ok
+- đặt cho mình
+- đúng vậy
+- đặt đi
+- đặt giùm mình
+- chắc chắn
+- tôi chắc chắn
+- chắc
+- chắc rồi
 
 ## intent:deny
 

@@ -1,5 +1,3 @@
-# Configuration for Rasa NLU.
-# https://rasa.com/docs/rasa/nlu/components/
 language: vi
 pipeline:
   - name: VietnameseTokenizer
@@ -29,7 +27,6 @@ policies:
     epochs: 100
   - name: MappingPolicy
   - name: "FallbackPolicy"
-    nlu_threshold: 0.9
+    nlu_threshold: 0.7
     core_threshold: 0.3
     fallback_action_name: "action_default_fallback"
-
