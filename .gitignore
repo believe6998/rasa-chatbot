@@ -5,3 +5,4 @@ story_graph.dot
 out.log
 results
 __pycache__
+.DS_Store
