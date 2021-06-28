@@ -1,0 +1,6 @@
+models/*
+.idea
+venv
+story_graph.dot
+out.log
+results
